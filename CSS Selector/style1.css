@@ -1,0 +1,46 @@
+/*Universal Selector*/
+
+/*{
+
+    color: red;
+}*/
+
+
+/*Tag Selector*/
+
+/*h1{
+
+    color: red;
+
+}
+
+p{
+    color: green;
+}*/
+
+/*Class Selector*/
+
+/*.para{
+
+   color: orange;
+
+}*/
+
+/*Id Selector*/
+
+/*#btn{
+    color: deeppink;
+}
+ */
+
+
+/*Attribute Selector*/
+
+[href="https://google.com"]{
+
+    color: red;
+}
+
+
+
+

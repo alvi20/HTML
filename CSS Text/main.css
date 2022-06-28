@@ -1,0 +1,25 @@
+h1{
+
+    font-family: Bahnschrift;
+}
+
+.Para-1{
+
+    font-family: Bahnschrift;
+    font-weight: 30;
+    font-style: italic;
+    text-decoration: underline;
+    text-indent: 40px;
+    text-shadow: 10px 10px 10px red;
+    color:blue;
+
+}
+
+.Para-2{
+
+
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    line-height: 18px
+
+}
